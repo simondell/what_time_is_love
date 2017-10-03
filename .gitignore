@@ -1,5 +1,6 @@
 .bundle
 .cache
 .DS_Store
+.netlify
 .sass-cache
 build/
